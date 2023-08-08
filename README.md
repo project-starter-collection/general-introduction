@@ -9,7 +9,7 @@
 
 We adhere to the following principles:
 
-- Complete Structure: Well-considered folder structure. Already-written common setup. Multi-environment support.
-- Minimal: Keep it simple. Don't over-customize.
-- Ready to Start: Infrasturcture-as-Code. Runnable without any modification.
-- Opinionated: Functional over imperative, explicit over convention, embrace comments.
+- **Complete Structure**: Well-considered folder structure. Already-written common setup. Multi-environment support.
+- **Minimal**: Keep it simple. Don't over-customize.
+- **Ready to Start**: Infrasturcture-as-Code. Runnable without any modification.
+- **Opinionated**: Functional over imperative, explicit over convention, embrace comments.
